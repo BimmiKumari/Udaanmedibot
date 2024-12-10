@@ -10,4 +10,5 @@ python_docx
 SpeechRecognition
 streamlit
 translate
+openai
 google-cloud
