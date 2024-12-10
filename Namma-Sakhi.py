@@ -13,7 +13,7 @@ from nltk.sentiment import SentimentIntensityAnalyzer
 import pygame
 from gtts import gTTS
 from translate import Translator
-
+os.environ['SDL_AUDIODRIVER'] = 'dsp'
 nltk.download('vader_lexicon', quiet=True)
 
 genai.configure(api_key="AIzaSyAqLgulBNIV689k89u8cQcvO9RekyMJ7rk")
