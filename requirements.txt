@@ -10,3 +10,4 @@ python_docx
 SpeechRecognition
 streamlit
 translate
+google-generative-ai
