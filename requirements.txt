@@ -13,3 +13,4 @@ translate
 openai
 google-cloud
 google-generativeai
+libsdl2-dev
