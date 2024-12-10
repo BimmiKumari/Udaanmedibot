@@ -12,3 +12,4 @@ streamlit
 translate
 openai
 google-cloud
+google-generativeai
